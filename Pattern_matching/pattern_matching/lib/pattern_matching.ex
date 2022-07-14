@@ -1,6 +1,8 @@
 defmodule PatternMatching do
 
-  def hello do
+  def main do
     :world
   end
+
+  defp teste()
 end

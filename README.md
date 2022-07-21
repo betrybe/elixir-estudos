@@ -1,16 +1,21 @@
-# Estudos Elixir
+# Basics
 
-Repositório que armazena projetos e exercicios que discutimos na nossa reunião semanal de Elixir.
+**TODO: Add description**
 
+## Installation
 
-### Ideia
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `basics` to your list of dependencies in `mix.exs`:
 
-Entendendo que o squad esta crescendo e estamos recebendo dev's que estão iniciando sua jornada no Elixir, surgiu a ideia de nos reunirmos semanalmente para conversarmos sobre temas especificos da nossa aprendizagem.
+```elixir
+def deps do
+  [
+    {:basics, "~> 0.1.0"}
+  ]
+end
+```
 
-### Como funciona
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at <https://hexdocs.pm/basics>.
 
-Para cada encontro é criada uma branch com o nome encontro-x e nessa branch são criadas 3 diretórios com os temas que estão sendo tratados naquela reunião.
-Durante o encontro, antes ou depois alimentamos esses diretórios com conteudo relevante para ser estudado.
-
-
-[Thread de origem do projeto](https://betrybe.slack.com/archives/C01Q3PY8LLW/p1657170694862609) 

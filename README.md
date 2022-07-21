@@ -9,8 +9,8 @@ Entendendo que o squad esta crescendo e estamos recebendo dev's que estão inici
 
 ### Como funciona
 
-Para cada encontro é criada uma branch com o nome encontro-x e nessa branch são criadas 3 diretórios com os temas que estão sendo tratados naquela reunião.
-Durante o encontro, antes ou depois alimentamos esses diretórios com conteudo relevante para ser estudado.
+Para cada encontro é criada uma branch com o nome encontro-x e nessa branch são criados os diretórios necessários com os temas que serão tratados na reunião.
+Durante o encontro, antes ou depois, alimentaremos esses diretórios com conteúdo relevante para ser estudado.
 
 
 [Thread de origem do projeto](https://betrybe.slack.com/archives/C01Q3PY8LLW/p1657170694862609) 

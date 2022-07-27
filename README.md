@@ -14,3 +14,5 @@ Durante o encontro, antes ou depois alimentamos esses diretórios com conteudo r
 
 
 [Thread de origem do projeto](https://betrybe.slack.com/archives/C01Q3PY8LLW/p1657170694862609) 
+
+[Thread da primeira tentativa](https://betrybe.slack.com/archives/C01Q3PY8LLW/p1658174353829959)

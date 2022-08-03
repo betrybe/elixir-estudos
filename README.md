@@ -13,6 +13,6 @@ Para cada encontro é criada uma branch com o nome encontro-x e nessa branch sã
 Durante o encontro, antes ou depois, alimentaremos esses diretórios com conteúdo relevante para ser estudado.
 
 
-[Thread de origem do projeto](https://betrybe.slack.com/archives/C01Q3PY8LLW/p1657170694862609)
+[Thread de origem do projeto](https://betrybe.slack.com/archives/C01Q3PY8LLW/p1658951488980939)
 
 [Livebook para codarmos juntos](https://dojo-elixir.fly.dev/)
